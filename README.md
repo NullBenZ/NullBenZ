@@ -1,16 +1,33 @@
-## Hi there 👋
+# Yo, I'm Shakti 👋
 
-<!--
-**NullBenZ/NullBenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Second-year CSE student.
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+shakti // NullBenZ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat now.txt
+building    -> Nexis, a recon tool for Linux written in C++
+learning    -> C++, networking, cybersecurity
+aiming at   -> cybersecurity + blockchain
+
+$ ls projects/
+Nexis/      # host discovery, port scanning, service detection
+```
+
+## 🔧 What I'm working on
+
+**[Nexis](https://github.com/NullBenZ/Nexis)** is a command-line recon tool in C++ for Linux. It finds hosts on a network, scans ports, and detects which services are running.
+
+## 🧰 Stack
+
+`C` `C++` `HTML` `CSS` `Git` `GitHub` `VS Code` `Linux`
+
+## 📫 Reach me
+
+- Email: itsmeshaktii@gmail.com
+- LinkedIn: [shakti-singh1011](https://www.linkedin.com/in/shakti-singh1011)
+
+---
+
+*that's it for now.*
