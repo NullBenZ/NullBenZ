@@ -1,4 +1,4 @@
-# Yo, I'm Shakti 👋
+# Yo, I'm Shakti 
 
 > Second-year CSE student.
 
